@@ -1,28 +1,28 @@
 email: 'uarsenal.eu@gmail.com'
-phone: '+420 602-8788-66'
+phone: '(+420) 602-8788-66'
 businessName: 'UArsenal s.r.o.'
 address: |
-   Rybná 716/24, Staré Město,
-   Praha, 110 00
+  Rybná 716/24,
+   Staré Město, 110 00 Praha
 hours:
   - day: Monday
-    open: 9:30am
-    close: 5:00pm
-  - day: Tuesday
-    open: 9:30am
-    close: 5:00pm
-  - day: Wednesday
-    open: 9:30am
-    close: 5:00pm
-  - day: Thursday
-    open: 9:30am
-    close: 5:00pm
-  - day: Friday
-    open: 9:30am
-    close: 5:00pm
-  - day: Saturday
     open: Closed
     close:
+  - day: Tuesday
+    open: 9:30
+    close: 16:30
+  - day: Wednesday
+    open: 9:30
+    close: 16:30
+  - day: Thursday
+    open: 9:30
+    close: 16:30
+  - day: Friday
+    open: 9:30
+    close: 16:30
+  - day: Saturday
+    open: 9:30
+    close: 16:30
   - day: Sunday
     open: Closed
     close:
